@@ -16,3 +16,5 @@ class dkwame:
 
 if _name_ == '_main_':
     I_am = dkwame()
+
+#Feel free send in a pull request if you have any inputs on a project I am working on! 
