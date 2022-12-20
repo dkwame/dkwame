@@ -1,11 +1,10 @@
 class dkwame:
     def _init_(self):
-        self.username = 'dkwame'
         self.name = 'Kwame Doonquah'
-        self.MSc = 'Computational Science & Engineering'
         self.MSc_Uni = 'North Carolina A&T State University'
-        self.BA = 'Mathematics'
+        self.MSc_degree= 'Data Science & Engineering'
         self.BA_Uni = 'University of North Carolina Wilmington'
+        self.BA_degree= 'Mathematics'
         self.linkedin = 'https://www.linkedin.com/in/kwame-doonquah-62779615a/'
         self.email = 'doonkwa@gmail.com'
         self.country = 'United States of America'
@@ -16,6 +15,7 @@ class dkwame:
 
 if _name_ == '_main_':
     I_am = dkwame()
+
 
 #Projects are being worked on continuously. 
 #Feel free send in a pull request if you have any inputs or insights! 
