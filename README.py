@@ -20,4 +20,4 @@ if _name_ == '_main_':
 
 #Projects are being worked on continuously. 
 #Feel free send in a pull request if you have any inputs or insights! 
-#Current machine learning project = Credit Card Fraud Detection  
+#Current machine learning project = Bank Subscription Prediction Project
