@@ -18,6 +18,8 @@ if _name_ == '_main_':
     I_am = dkwame()
 
 
-#Projects are being worked on continuously. 
 #Feel free send in a pull request if you have any inputs or insights! 
-#Current Contract: Electronic Medical Record (EMR) data migration for a physician's private practice. Whenever I finish this, I'll make sure to post the ETL scripts. 
+
+
+#Current Contract: Electronic Medical Record (EMR) data migration for a physician's private practice. 
+#Whenever I finish this, I'll make sure to post the ETL scripts. 
