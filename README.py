@@ -22,5 +22,3 @@ if _name_ == '_main_':
 
 
 #Current Contract: Electronic Medical Record (EMR) data migration for a physician's private practice. 
-#I expect this to take a couple weeks as, I'm writing the ETL scripts and cleaning the data from scrathc. 
-#Whenever I finish this, I'll make sure to post HIPAA compliant ETL scripts.
