@@ -21,4 +21,4 @@ if _name_ == '_main_':
 #Feel free send in a pull request if you have any inputs or insights! 
 
 
-#Current Contract: Electronic Medical Record (EMR) data migration for a physician's private practice. 
+#Current project: Electronic Medical Record (EMR) data migration for a physician's private practice. 
