@@ -12,7 +12,7 @@ class dkwame:
 
 
     def _str_(self):
-        return self.name
+        return self.Name
 
 if _name_ == '_main_':
     I_am = dkwame()
