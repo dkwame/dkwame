@@ -18,7 +18,7 @@ if _name_ == '_main_':
     I_am = dkwame()
 
 
-#Feel free send in a pull request if you have any inputs or insights! 
+#Feel free to contact me if you have any inputs or insights! 
 
 
-#Current project: Electronic Medical Record (EMR) data migration for a physician's private practice. 
+#Current project: Data migration consultant for ERP modernization project @ Guilford County Schools 
