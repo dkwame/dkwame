@@ -6,7 +6,6 @@ class dkwame:
         self.BA_Uni = 'University of North Carolina Wilmington'
         self.BA_degree = 'Mathematics'
         self.Linkedin = 'https://www.linkedin.com/in/kwame-doonquah-62779615a/'
-        self.Tableau = 'https://public.tableau.com/app/profile/kwame6370'
         self.Email = 'doonkwa@gmail.com'
         self.Country = 'United States of America'
 
